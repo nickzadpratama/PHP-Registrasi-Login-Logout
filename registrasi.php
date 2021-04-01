@@ -1,5 +1,5 @@
 <?php
-require 'functions.php';
+require 'function.php';
 
 if (isset($_POST["register"])) {
 
